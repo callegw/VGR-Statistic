@@ -1,5 +1,5 @@
 VGR-Statistic
 =============
 
-Get statistic shown in pie charts and diagrams using data from a database.<p>
+Get statistic shown in pie charts and diagrams using data from a database.<br>
 School project in collaboration with VGR, Västra Götalandsregionen.
